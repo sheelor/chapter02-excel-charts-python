@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="430.2pt" height="465.4pt" viewBox="0 0 430.2 465.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-29T02:06:53.731397</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 465.4 
+L 430.2 465.4 
+L 430.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+L 288.973862 122.346717 
+C 266.515042 109.380111 241.033212 102.552275 215.1 102.552275 
+C 189.166788 102.552275 163.684958 109.380111 141.226138 122.346717 
+z
+" clip-path="url(#pc3aca679b3)" style="fill: #2e75b6; opacity: 0.9; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+L 345.369368 250.3 
+C 345.369368 227.434652 339.349256 204.967288 327.916582 185.165316 
+C 316.483908 165.363344 300.036656 148.916092 280.234684 137.483418 
+z
+" clip-path="url(#pc3aca679b3)" style="fill: #ed7d31; opacity: 0.9; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+L 272.289777 349.3556 
+C 289.676372 339.317445 304.117445 324.876372 314.1556 307.489777 
+C 324.193755 290.103182 329.479555 270.376311 329.479555 250.3 
+z
+" clip-path="url(#pc3aca679b3)" style="fill: #70ad47; opacity: 0.9; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+L 164.683948 337.623164 
+C 180.011223 346.472371 197.401587 351.132104 215.1 351.132104 
+C 232.798413 351.132104 250.188777 346.472371 265.516052 337.623164 
+z
+" clip-path="url(#pc3aca679b3)" style="fill: #ffc000; opacity: 0.9; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+L 127.349825 250.3 
+C 127.349825 265.702226 131.405007 280.836368 139.10612 294.175087 
+C 146.807233 307.513806 157.886194 318.592767 171.224913 326.29388 
+z
+" clip-path="url(#pc3aca679b3)" style="fill: #5b9bd5; opacity: 0.9; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+L 179.713567 189.008901 
+C 168.955533 195.220055 160.020055 204.155533 153.808901 214.913567 
+C 147.597747 225.671601 144.327135 237.877692 144.327135 250.3 
+z
+" clip-path="url(#pc3aca679b3)" style="fill: #997300; opacity: 0.9; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(198.6 84.827109)">销售部</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(199.348516 95.827109)">29.2%</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(325.623872 175.642733)">采购部</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(326.372388 186.642733)">22.7%</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(311.86289 314.37236)">工程部</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(312.611406 325.37236)">17.5%</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(198.6 366.21727)">财务部</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(199.348516 377.21727)">13.6%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(108.398829 301.05767)">行政部</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(109.147345 312.05767)">10.3%</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(123.10161 205.390984)">人力部</text>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif" transform="translate(126.902626 216.390984)">6.7%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 15px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="215.1" y="20.4" transform="rotate(-0 215.1 20.4)">各部门人数占比南丁格尔圆饼图</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc3aca679b3">
+   <path d="M 423 250.3 
+C 423 222.998822 417.622263 195.963114 407.174555 170.740114 
+C 396.726846 145.517115 381.412348 122.597348 362.1075 103.2925 
+C 342.802652 83.987652 319.882885 68.673154 294.659886 58.225445 
+C 269.436886 47.777737 242.401178 42.4 215.1 42.4 
+C 187.798822 42.4 160.763114 47.777737 135.540114 58.225445 
+C 110.317115 68.673154 87.397348 83.987652 68.0925 103.2925 
+C 48.787652 122.597348 33.473154 145.517115 23.025445 170.740114 
+C 12.577737 195.963114 7.2 222.998822 7.2 250.3 
+C 7.2 277.601178 12.577737 304.636886 23.025445 329.859886 
+C 33.473154 355.082885 48.787652 378.002652 68.0925 397.3075 
+C 87.397348 416.612348 110.317115 431.926846 135.540114 442.374555 
+C 160.763114 452.822263 187.798822 458.2 215.1 458.2 
+C 242.401178 458.2 269.436886 452.822263 294.659886 442.374555 
+C 319.882885 431.926846 342.802652 416.612348 362.1075 397.3075 
+C 381.412348 378.002652 396.726846 355.082885 407.174555 329.859886 
+C 417.622263 304.636886 423 277.601178 423 250.3 
+M 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+C 215.1 250.3 215.1 250.3 215.1 250.3 
+z
+"/>
+  </clipPath>
+ </defs>
+</svg>

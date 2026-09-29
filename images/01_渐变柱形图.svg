@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="490pt" height="334.8pt" viewBox="0 0 490 334.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-29T02:06:46.087452</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 334.8 
+L 490 334.8 
+L 490 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 36.4 309.6 
+L 482.8 309.6 
+L 482.8 32.4 
+L 36.4 32.4 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m6a3ad0bcb6" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6a3ad0bcb6" x="87.907692" y="309.6" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="87.907692" y="326.28" transform="rotate(-0 87.907692 326.28)">华北</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m6a3ad0bcb6" x="156.584615" y="309.6" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="156.584615" y="326.28" transform="rotate(-0 156.584615 326.28)">华南</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m6a3ad0bcb6" x="225.261538" y="309.6" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="225.261538" y="326.28" transform="rotate(-0 225.261538 326.28)">东北</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m6a3ad0bcb6" x="293.938462" y="309.6" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="293.938462" y="326.28" transform="rotate(-0 293.938462 326.28)">西北</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m6a3ad0bcb6" x="362.615385" y="309.6" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="362.615385" y="326.28" transform="rotate(-0 362.615385 326.28)">西南</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m6a3ad0bcb6" x="431.292308" y="309.6" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="431.292308" y="326.28" transform="rotate(-0 431.292308 326.28)">华东</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <path d="M 36.4 309.6 
+L 482.8 309.6 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_8">
+      <defs>
+       <path id="mda0c1e3787" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="309.6" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="314" transform="rotate(-0 29.4 314)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <path d="M 36.4 274.95 
+L 482.8 274.95 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="274.95" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="279.35" transform="rotate(-0 29.4 279.35)">500</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <path d="M 36.4 240.3 
+L 482.8 240.3 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="240.3" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="244.7" transform="rotate(-0 29.4 244.7)">1000</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 36.4 205.65 
+L 482.8 205.65 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="205.65" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="210.05" transform="rotate(-0 29.4 210.05)">1500</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <path d="M 36.4 171 
+L 482.8 171 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="171" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="175.4" transform="rotate(-0 29.4 175.4)">2000</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_17">
+      <path d="M 36.4 136.35 
+L 482.8 136.35 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="136.35" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="140.75" transform="rotate(-0 29.4 140.75)">2500</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_19">
+      <path d="M 36.4 101.7 
+L 482.8 101.7 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="101.7" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="106.1" transform="rotate(-0 29.4 106.1)">3000</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_21">
+      <path d="M 36.4 67.05 
+L 482.8 67.05 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="67.05" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="71.45" transform="rotate(-0 29.4 71.45)">3500</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_23">
+      <path d="M 36.4 32.4 
+L 482.8 32.4 
+" clip-path="url(#p054daac943)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#mda0c1e3787" x="36.4" y="32.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: end" x="29.4" y="36.8" transform="rotate(-0 29.4 36.8)">4000</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 36.4 309.6 
+L 36.4 32.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 36.4 309.6 
+L 482.8 309.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g clip-path="url(#p054daac943)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAxMAAAH9CAYAAABhiyGLAAAYZklEQVR4nO3d3XEcOZYG0CxFerMm7fOuK23EPI8D7csY0OsI9kGkRFJ1S9MfEEBi8pyYGLb4W6K+vMAtAFmP//7Hv1o7juNox/F4tONoj+N4HJ+19va+jx9ox3E8jvb234/3j7Xjydd//rbPPuXTd33/hHYc7fH5e7ejHY/H4+1hffjY4+fXtuP73+X7R9v3h/94fPkhz37wrw/6n//7X9VDvb2/l53jeJaAdrS3f+/HLzl5/9T397W3r3uZnaPIxftDeY/Sj0h//wE/fkZ7S/Xj8SkT7dnf8eM3fH8A73+nQ3Z+57//8a/2KR7H8eEPPy7k4/PF2T584sfPeX1Zf/83OZ58xpfPa2/15e0dX7PzI+/H8W9mpx2tPWRnMNmRnVSWneP4mIjv/3t8+mf46Me/+fu48TZX+t3Y9fnHvP2L/pjLPP+anz/j41/kyWD6NkH68b3al695HMc//0d2XpGdOjtn+/HO94+3nzX360//5QMfvvbjx4qvb8frT3n6o9qX7318L9q//NzPb378XdqTr3n1GH//Sbz7e9n59B/H5+z8+AbPv0Urk1b+qNe5+Phzf/6A9un9X77wKP6OX3P1bz1KjuNnfj79pn4pMa36wJPPeR2/Jz/t+ee10dlpsjOY7MhOalh2fvzbVD/n49vfJah6PO2XucyzT2vt63ve/vvpw/9lRvXkAfCM7NTZ+fbi8QEAAJQ0EwAAQORc/QDYmXVRAIA7O00IiYkOsITiA8ym7lROvxtSogMsofgQEx5ColM6/W7ISQ895AeYTNkhJDo1ZybIubLoIT+ERIeU7MB4zkwAAMBL5ssVZyaIeYEkekgPOekhJTswmm1OAOzFfBCYTd0pnZ5dJiY6dBEgYDJlB4azMkEHVRkAuANznoozEwBsxYo6MJuqU7MyQay5sughP8BkGlFiolNya1g6yA6wgNIDcBlWJgCAe9CIEhOeyulXA6xguwE52QG4itPGd1JNdgAAbs02JwDgJjwJRsbzpzXNBLCGwkxIdID5VJ6KZoKcNh1YQe0hJDkwnjMTAMA9mPLAcO7mREx26CNBwGzqDoxmmxMdFGUA4Abs5ClpJsi5roAVDOrAZKpOzZkJYAmVh5TsAFyHlQliXsGYLuIDzOYJVBjOAWxywkMXAQLmUnXISU/FygQAALyilyidfjvkZAdYwFYVgMs4zQcBAKBmulyzzYmYJwcB2IuBi5TsVGxzooPs0EE3SkhyiAkPDOduTsASag856QEmU3ZKzkwAALdgygPjOTNBzjYVYAWlB5hO4ak4M0FMcgDYi5GLjOTUrEwAsBnDOiHRgeE0E+Rsc6KL/JCRHGA6had0mg8CS6g9AGzDoFVxZoKY5ABLKD7EhAdGs82JDooysILaQ0ZyYDzNBDlVmQ7iA8AuHAuonX47AMAtmPIQE57K6VdDTnroIT9kPAdGTnhgNNuciBnQAQDuTTMBrKEZJSY8AFfh1rB0kB0A4AZsxyid5oMAwB2YD5ISnZptTsQUZfoIEDCbugOjuZsTHaSHnPQQ80wGwGU4MwHAVoxawHwqT8WZCXKeHaSH+ACwC2NW6dvqBwAAAOzJNidikkMfCSIlO4SsqMNw7uZEB0UZWEDpISQ6pJr0lE5NOjHZAQC4NSsTAADwiidQS85MEJMcesgPKdsNyMkOjGZlgg6KMh3EB5hN3SEmPBXNBDnXFV0EiJDoAFyGA9gAAPCC6XLNmQk6yA6wgtpDRnKICU/JNidiVrUA2IuBi5TsVDQTdHBhAfOpPMSEB4Y7Pb0MwFYMWwCXYWWCnAGdHp7IAGAXhqzS6XdDygtH0UN6yEkPKdkhY85T+7b6AQAAAHtyZgIAuAUzHhjPmQlyGlFgAaWHmOzAcJoJYBGjOinZASbzLEZJM0HMZUUXAQKmU3hgtNPpdHKyAwD85zPjqZ1+O8RkBwDg1mxzAmAv9i6TEh1iwlPRTNDBhUXOFktgNnWHmOiUTr8dUp4cBFZQegCu4zQhBJZQewBge7Y50cFsEFhB7QHmskWuZpsTAHsxbJGSHRjOygQxW+QA2IuBi5DolDQTdHBl0UN+AGB3XrQOgK0YtkjJDjnpqZwOlBATHTqIDznpAbgK25zoYECng/iQkh1iwkPGOdGaZoKY6wqArRi4YLhTqwUAAK+YL1esTJDTiNJFfkjJDsBVnEoyAACQsDJBTCMKrGBRlJQ7WBITnZIzE3SQHQA2YtgipBGtWZkg57qig+cxyAkPwFVoJoBFTAgBYHeaCTqYDAIA3NlpDxgp21SAJdQeYsJDyKSndLquANiJJ8FISQ6MZ5sTHZRlADZi2ILhTlcWMdGhhyVjADZhxKpZmSDmwgJgL0YuUrJTcWaCDsIDLGBVC5hN2SmdfjfACmoPAOzPmQlyogPAToxbMJwzE3RQlYH5VB5SbisM42kmiCnJ9JEgAPbQnNUqOYANrKH2kDKoA1zGacmPmAEdAODWbHMCAICXPIFa0UwQc1kBsBUr6jCcMxPkFGU6SA8p23OB6ZSdkteZABZRewiJDiHRISU7NducAADgJe1E5fSrISc9dBAfANiebU7EHJkA1lB8CBm4YDgHsAEA4BXz5ZIzE3RwZdFDfgiJDjCdwlPRTJBzXQELKD3AbOpOzZkJADZj3CLjNUpgvNNZJFKKMj3UHmA6dQeGs80JAABe0YiWNBPkXFjACmoPMJ3CU3Fmgg6yQw/5AWZTd2A0rzNBTHSAFZzXAmZTdWqnXw4x4QEAbsGkp2KbEx1khw7iA0zmLnLEZKfkADYAezGoA1yGZgJYwr53crJDSnZgNAewiTXrxQDALZjzVJyZAACAF8yWa+7mBMBWjFvEhIeU7JScmSBnmxOwgtoDcBnOTBATHboIEDCZGz+Qk52KMxPAImoPAOzONic6mAwCADdgylPSTJBzYQFLKD6ERIeQ6NROrxUArKDykDJskRMeGM3KBDEH2QCAezDnqWgmgEUUZgDYnWaCnLkgPeSHmPCQkRxiwlNya1g6yA4AOzFuwWing2ykRAdYQvEhJTuEnBOt2eZEznUFAHBrmgk66CaA+VQegOtwZgJYwpIxOdkBJnMuoHSqycASag8wncIDo9nmRMyrpwOwE8MWjHfaagDAVgxbAJdhZQKAzegmgLk8+V7TTJCzXkwX+SEjOcB0Ck/JAWwA4CZMemA0t4YlJjkAAPd2mhCSkx46iA8pWyxJiQ4M58wEOUWZDuIDzKbuEPMkRsmZCQDgJkx6yEhOzZkJYm6TRh/5ISM5ANdhmxM5Izqwgu0GAJehmQAA7kEfSkx4Ku7mRAfpoYP4ALALY1bptFwMANyDOQ+MZpsTMX0ofQQImEvVIeWmMzXNBB1cWOSkh5hnMgAuw61hAdiKUQvgOrxoHQBwD1a1SIlOyd2ciDVFGQC4BXOeijMTwBrqMjHhAbgKZyaARdQeAPZgxKo5M0HONidgBaWHkOjAeLY5AbAVE0JingQjJTql04twkJIdekgPOekBZlN3KlYmyLmuAABuTTMBLKIbBYDdOYBNB+Ghg/iQkh1iwkNGcmpuDUtMcoA1VB9CokPK4f2SbU7kXFcAbMSwBeOdLixy0gPMp/IAXIczEwDsxbgFTKfwVJyZABZRe0jJDinZISQ6JWcmiDWHkeggPgDswpBV00wAAPdgRgjDnZ4eBACAV8yXK+7mRE54gAWUHlJNemA425yIKcr0kR9CVtSB2ZSd0rfVDwAAANiTW8PSQXYA2IhhC4bzonXkZIce8gPAJmztrjmADSyh9pCTHlKyA6M5gE1Mlw4sofQAs6k7JWcmyIkOXQSIjOSQkh0Yz5kJAOAezHmICU/FNic6uLCAFdQeUrIDo2kmAADgBW1o7XSIlpQXoaWL/JCSHWA2dadkZYIOrix6yA8AuzBmVRzABmArVtQBrsOtYYElVB5gtmZ/LgxnmxMxRRkAuAVznpJmAoC9GNOByZSd2qnRApZQewBge85MkNOJ0kV+SMkOKdmB0WxzAgDuQS9BTHgqmgliLitgBbUHmE7hKXmdCXK2OQErKD2ERAfGO734D7CCykNOeoC5VJ2abU7AGla2gOnUHRhNM0HMqhYAcA/mPBW3hiUnOgDsxLhFSnZKDmADsJVmixzAZdjmRAcDOgDAnZ2mgwDAHTjrR0p2as5MELPTgD4CBAC7c2aCDsJDB/EhJjyERIeU7JScmQCWUJeJCQ8wncJTsc2JnOgAsBUDF4xmZYKYw0jACioPwHW4mxMAmzFykZEcUrJTcwAbWETxAWATbmFZcmaCnAsLWEHpISU7MJwzE8AaBnVgOoUHRtNMEFOSAQDu7bRThZjw0EF6SLmTHMB1ODMBLKL2ALCH5gnUkm1OAOzFmE7IhBDG00zQQVEGALgzrzNBzBM8dJEfYsIDcBXOTAAAwCueQS2dfjXkpIce8kNGcgCuw5kJckZ0YAW1h5jwwGi2ORGTHHrIDznpISQ6hESn5gA2HYQHALgDc56KbU4AwC2YDhITnpJmgpwLix7yA0yn8MBoZ3NhEZId+sgPIbdoBKZTdyrOTACwFcMWMeGB4WxzIqcoAwA3YMpT00zQwaUFANyAKU/J60wAALfgrB+MdzrHRkp06CE/xAxcwHTqTsU2J3IGdHrIDzCbsgPD2eYEAABErEwAsBVPgZGTHjIW02uaCTq4soAV1B5gNnWn4kXriOnSgSXUHoDLON0mDVhD7QHmUnVgPNuc6KAs00F8gNnUHVKyU9JMkHNhAUsoPqRkh5TsVJyZICY69JAfUrIDzKbu1LzOBB1kB1hA6QG4jFNNBtZQfQDYhTGr4swEOdcVsITiQ8g9zUmJTsk2JzrIDh3EB5hM2YHxHMAmJjoAAPdmmxM53QSwgJ0qwGzKTk0zQQeXFrCC2gPMpu5UzuaXAyyg9gDTWdYiJTolZyaIiQ4AwL3Z5kTOMzwAALemmQDW0IuSkh1CokNOeipeZwKAzRi3SMkOGcmpWZkgZ5sTsIDKA0yn8JRO80FSokMfCQImU3ZgONucAADgJfPlim1OdHBhkZMeYpbUAS5DM0HOeA7AVgxcMJoXrSMmOnQRIGAyZYdUsyJaOptLi5js0EN+gMmUHRjONicAtuJJMIDr0EyQM54DK6g9xIQHRnNmgg7CAwDcgClPyetMEJMcAOAezHoqtjmRc13Rw50xiMkOwFWcSjI56SEnPcBsnsMgJTo1KxMAbMWEkJzwwGinqgwAAC+YL5esTBD7688/HqsfAwAA62gmANiMZwgBrsKtYYFF1B5gMmUHhjttAQOWUHuA6RQeMk12SrY5AbCV5lkwQpJDTHhKmglgCXUZAPbnzAQAABA59RIAwD2Y9JCSncrpVwOsofoQEh1SsgPDOTMBwGbMCIG53Peh5swEsIbSAwDbszIBwFb0oaS8VgA52ak4gA0AAERscwIWUXsI2bxMSnRIyU7J3ZyAJdQeANifMxMAAPCC8zY1ZyaANdQeYDqFB0ZzZgKArXiGEOA6bHMCFjEhBOZydp+Y7JQ0EwDsxaAOTKfwVE7LxQAAQMIBbADgJkx6yEhOzTYnYAmFmZz0AFyFZgJYw3wQgF04vV9ya1hgEbWHjDGdmOzAcKeiDADcgZvOwHi2OQGwGRNCgKvQTAAAwAtWtWrOTACwF8MWMJu6U7IyAayhMAOzqTswnBetAxZRfMjYbkBOdmC002UFrKD2ALAPo1bFmQkA4BbMeIgJT8mZCQAAeEEvUXNmAoC9eLVVUrIDw9nmBCyi9gCwC2NWxQFsYA3FBwC258wEAFvRhwLTKTwlZyYAAICIMxPAEioPMYdoCXnBQ1KyU7PNCVhEYQYmU3ZguG+rHwAAALAnd3MC1lB8iAkPMJmyUzrtPQVgJ0YtctJDSnYqzkwAsBdjOsBlaCYAgHvQiMJwbg0LLKL2AHOpOqRkp+ZF64AllB5y0gNM5oxxyd2cAICbMOuB0ZyZANYwppOSHYDLcGYCgK0YtQCuw8oEsIgpISnZISQ6xISn4gA2AHALzaSHkPPXNQewAQCAiDMTAOzFsAVwGc5MALAZ3QQwm7pTcWYCWML+U1KiQ0x4YDjbnIBF1B5gNnWHkOiUbHMCAIAX9BI1d3MCYC/2yAHTqTsVZyYAgFsw5YHxnJkAAG7CnIeQ6JScmQDWUJiB2dQdGE4zASxiVCcjOcB8Kk9FMwEsoSwTcwAbmEzVqZ1//fnHY/WDAAAA9mNlAgC4Cc8vExKdkmYCALgFO+TICU9FMwEsojCTkh2Aq9BMAGuYDxLy7DLAdWgmAICb0ImSkZyaZgIAAF6xJFrSTACwGYM6IdGB4TQTwBLNqA5MpurAeJoJAPZiRghwGZoJYA0TQkKiQ056SMlORTMBwGYM6sBkyk5JMwEAAC/oJWqaCQDgHswIYTjNBLCIUZ2Q6ADTKTwVzQQAmzGok3FLahhPMwEsYUgHYBsGrZJmAlhDYSYkOgDXoZkAAO5BJ0rIFrmaZgKAvRjTiQkPjKaZABYxqJOSHWAyZaf0bfUDAAAA9mRlAgC4BU8uk5OeimYCgK0Y0slJD4ymmQDWMKaTasJDSHQIiU5NMwEs4TZ7AGzDkFXSTAAAwEu6iYq7OQEAABErEwBsxjOEpGQHRtNMALAX80FCzu7DeJoJYA2jOiHJAVZpx3E8jp916PE3vubrHz69/2/83O9v2/H4t7/61eN4/07Vo/n6/u9//vhezQQAALzw159//L2Z+41oJgDYjLUJgKvQTABLmA4C86k8MJpmAoC9mA8CXIZmAgC4B40oDKeZANZwNydCkkNKdmA8zQQAmzElJCU7MNq31Q8AAADYk5UJAPbiyWWAy9BMAAD3oBGF4TQTAGzGjJCU7MBomglgiWZQB4DtaSaANfQShESHlOzAeJoJAPZiRghwGZoJADajmwC4Cs0EAHAPTSMKo2kmgEUM6gCwO6+ADQAARDQTAGynHb+ubf1834cbD7cvn/D+8Q/bXZ6tkbX25P1P3teOL7c5fvLz3h9Xa18/5edXfn37+QufP85fvsZiH7CAbU7AErYuk/rrzz8eqx8De1J2YDzNBABwD57FgOE0E8AiBnUA2J0zEwAAQEQzAQAARGxzAgBuwvZKGE0zAaxhTAdmU3dgOM0EAHALegkYTzMBLNEM6wCwPQewAQCAiJUJAOAmrIjCaFYmAACAiJUJAOAeLEzAcJoJYA2DOgBsTzMBLKKbAOZyFzkYz5kJAAAgopkAAAAitjkBS9hsAEyn8MBwViYAAICIlQlgEU8RArOpOzCaZgJYw5gOANvTTAAAt+A5DBhPMwEA3INuAobTTAAAN6GbgNE0E8AiBnUA2J1bwwIAABErE8ASzcIEAGzPygQAABDRTAAAt/BqQbR9+Xj78vbvfq+vb3+3GPvxc9rb///6Ne3pf378Q3v2/t/8cAvF9LDNCQC4hf/784/H6scA/2k0E8AingsDgN3Z5gQAAEQ0EwAAQMQ2J2ANu5wAYHuaCWAJvQQA7M82JwAAIGJlAljE2gQA7M7KBAAAENFMAAAAEducgDXscgKA7VmZAAAAIlYmgEUsTQDA7jQTwBJaCQDYn21OAABARDMBAABENBMAAEDEmQlgDYcmAGB7mglgEd0EAOzONicAACCimQAAACKaCQAAIOLMBLCEExMAsD/NBLBG004AwO5scwIAACKaCQAAIKKZAAAAIpoJAAAgopkAAAAi7uYELOJuTgCwO80EsIQ7wwLA/mxzAgAAIpoJAAAgopkAAAAizkwAizg0AQC7szIBAABENBMAAEDENidgDbucAGB7ViYAAICIlQlgCQsTALA/zQSwiHYCAHZnmxMAABDRTAAAABHbnIA17HICgO1ZmQAAACJWJoBFLE0AwO6sTAAAABErE8AS1iUAYH9WJgAAgIhmAgAAiNjmBKxhnxMAbE8zASyimwCA3dnmBAAARDQTAABARDMBAABENBMAAEDEAWxgidYcwAaA3VmZAAAAIpoJAAAgopkAAAAimgkAACCimQAAACLu5gQs4m5OALA7zQSwhl4CALanmQCW0EsAwP6cmQAAACKaCQAAIGKbE7CIjU4AsDsrEwAAQEQzAQAARGxzAtawywkAtmdlAgAAiFiZAJawMAEA+9NMAItoJwBgd7Y5AQAAEc0EAAAQsc0JWMMuJwDYnpUJAAAgYmUCWMTSBADszsoEAAAQ0UwAAAAR25yAJWxyAoD9WZkAAAAiViaANSxNAMD2NBPAIroJANidbU4AAEBEMwEAAEQ0EwAAQEQzAQAARDQTwDLt6x+enclux3G09uUL2tE+fvLXr/v6vdrPt+3DO9uXT2if/vjsGxQ/7/cfeP4pzqADsLn/B4OIoIfE04XhAAAAAElFTkSuQmCC" id="image992889c64b" transform="scale(1 -1) translate(0 -244.32)" x="71" y="-65.48" width="377.76" height="244.32"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="87.907692" y="140.2968" transform="rotate(-0 87.907692 140.2968)">2354</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="156.584615" y="171.6204" transform="rotate(-0 156.584615 171.6204)">1902</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="225.261538" y="59.2158" transform="rotate(-0 225.261538 59.2158)">3524</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="293.938462" y="116.4576" transform="rotate(-0 293.938462 116.4576)">2698</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="362.615385" y="102.7362" transform="rotate(-0 362.615385 102.7362)">2896</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="431.292308" y="125.8131" transform="rotate(-0 431.292308 125.8131)">2563</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 15px; font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'WenQuanYi Zen Hei', 'SimHei', 'Arial Unicode MS', sans-serif; text-anchor: middle" x="259.6" y="20.4" transform="rotate(-0 259.6 20.4)">各区域销售量</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p054daac943">
+   <rect x="36.4" y="32.4" width="446.4" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>
