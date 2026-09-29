@@ -16,7 +16,7 @@ plt.rcParams["font.sans-serif"] = [
     "WenQuanYi Zen Hei", "SimHei", "Arial Unicode MS",
 ]
 plt.rcParams["axes.unicode_minus"] = False
-# SVG 中文字渲染为矢量路径，保证在任何环境（含 GitHub README）正常显示
+# SVG 使用文字引用模式（体积更小，GitHub README 可直接渲染）
 plt.rcParams["svg.fonttype"] = "none"
 plt.rcParams["font.family"] = "sans-serif"
 
